@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Dr-Apex/Translate/static/js/main.32771af1.chunk.js",
+    "main.js.map": "/Dr-Apex/Translate/static/js/main.32771af1.chunk.js.map",
+    "runtime-main.js": "/Dr-Apex/Translate/static/js/runtime-main.ec8162a6.js",
+    "runtime-main.js.map": "/Dr-Apex/Translate/static/js/runtime-main.ec8162a6.js.map",
+    "static/js/2.0a887064.chunk.js": "/Dr-Apex/Translate/static/js/2.0a887064.chunk.js",
+    "static/js/2.0a887064.chunk.js.map": "/Dr-Apex/Translate/static/js/2.0a887064.chunk.js.map",
+    "index.html": "/Dr-Apex/Translate/index.html",
+    "precache-manifest.cb7ab1973a449313a8842fcb60bb4f2b.js": "/Dr-Apex/Translate/precache-manifest.cb7ab1973a449313a8842fcb60bb4f2b.js",
+    "service-worker.js": "/Dr-Apex/Translate/service-worker.js",
+    "static/js/2.0a887064.chunk.js.LICENSE.txt": "/Dr-Apex/Translate/static/js/2.0a887064.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8162a6.js",
+    "static/js/2.0a887064.chunk.js",
+    "static/js/main.32771af1.chunk.js"
+  ]
+}
